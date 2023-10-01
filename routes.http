@@ -17,7 +17,7 @@ PUT http://localhost:3333/videos/ad034a19-d37b-49ed-9fb0-cf9353b95f54
 Content-Type: application/json 
 
 {
-    "title": "Video 2",
+    "title": "Video 3",
     "description":"This is a video description.",
     "duration": 180
 }
